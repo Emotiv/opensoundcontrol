@@ -11,9 +11,6 @@ byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
 
 
 int serverPort = 8500; // Emotiv BCI out port
-int destPort   = 9000; // TouchOSC (outgoing port)
-int ledPin     = 13;  //  pin 13 on Arduino Uno. Pin 6 on a Teensy++2
-int ledState   = LOW;
 
 //Create UDP message object
 EthernetUDP Udp;
