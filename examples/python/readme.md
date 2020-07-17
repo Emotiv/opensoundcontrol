@@ -19,5 +19,6 @@ Choose **Data streams**, then Click **Start** button to start streaming.
   <img src="https://github.com/Emotiv/opensoundcontrol/blob/develop/docs/images/EmotivBCI_OSC.png">
 </p>
 
-3. Run Python example
+3. Run Python example.
+
 Change **PORT_NUMBER** and **IP_DEFAULT** following IP and Port configed on Emotiv BCI
