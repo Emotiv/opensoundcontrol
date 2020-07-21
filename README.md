@@ -23,10 +23,11 @@ Choose **Data streams**, then Click **Start** button to start streaming.
 ## Emotiv OSC Packets Format
 
 **Data Type** : float32 - 32-bit big-endian IEEE 754 floating point number
-**OSC Packets** : The contents of an Emotiv OSC packet is an OSC Bundle with each of detection types output
-                 (Facial Expressions,  Mental Commands, Performance Metrics). An OSC bundle contains 
-				  multiple **OSC Messages**, with each of messages is an action from the detection types. 
-***OSC Address Patterns** :
+
+**OSC Packets** : The contents of an Emotiv OSC packet is an OSC Bundle with each of detection types output (Facial Expressions,  Mental Commands, Performance Metrics). An OSC bundle contains multiple **OSC Messages**, with each of messages is an action from the detection types.
+				  
+**OSC Address Patterns** :
+
 ```
 /=== Facial Expressions - Eyes
 Neutral:     /fac/eyeAct/neutral
