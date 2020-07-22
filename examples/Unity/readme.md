@@ -25,7 +25,7 @@ Open Unity and add a project to folder: **examples\Unity**.
 
 Open **EmotivOSCScene** scene from the **SimpleReceiver** folder.
 
-Open **SimpleExample** script and change **port** number to the value you set on EmotivBCI Port.
+Open **SimpleExample** script and change **Port** number to the value you set on EmotivBCI Port.
 
 Build and run.
 
