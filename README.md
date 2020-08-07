@@ -77,5 +77,11 @@ VisualAttention:   /met/visualAttention
 CognitiveStress:   /met/cognitiveStress
 AuditoryAttention: /met/auditoryAttention
 ```
-					  
+
+**Data Value Range**
+
+    Facial Expressions, Mental Commands and Performance Metrics actions have a default value range (0, 1)
+	
+	Value : -1 is used for Performance Metrics when an action is inactive. 
+		
 					  
