@@ -6,7 +6,7 @@ Here are guidelines and some examples to use OSC with EMOTIV Brainwear&reg;.
 ## Prerequisites
 
 * [Download and install](https://www.emotiv.com/developer/) the EMOTIV App and EmotivBCI
-* Get a EmotivBCI license from https://www.emotiv.com/emotiv-bci/
+* Get a EmotivBCI license from https://www.emotiv.com/emotiv-bci/osc/
 
 ## How to receive data from EmotivBCI-OSC
 
