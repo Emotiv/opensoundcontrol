@@ -67,7 +67,7 @@ Rotate reverse:            /com/rotateReverse
 Disappear:                 /com/disappear
 
 //=== Performance Metrics
-Focus:             /met/foc
+Attention:         /met/att
 Interest:          /met/int
 Relaxation:        /met/rel
 Stress:            /met/str

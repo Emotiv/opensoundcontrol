@@ -92,7 +92,7 @@
 					"numoutlets" : 10,
 					"outlettype" : [ "", "", "", "", "", "", "", "", "", "" ],
 					"patching_rect" : [ 412.0, 209.0, 469.0, 22.0 ],
-					"text" : "OSC-route /foc /int /rel /str /exc /eng /cognitiveStress /visualAttention /auditoryAttention"
+					"text" : "OSC-route /att /int /rel /str /exc /eng /cognitiveStress /visualAttention /auditoryAttention"
 				}
 
 			}

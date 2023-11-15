@@ -150,8 +150,8 @@ void processMC(OSCMessage &msg, int addrOffset) {
 }
 
 void processPM(OSCMessage &msg, int addrOffset) {
-  if(msg.match("/foc", addrOffset)) {
-    Serial.print("PM - focus: ");
+  if(msg.match("/att", addrOffset)) {
+    Serial.print("PM - attention: ");
   } else if(msg.match("/int", addrOffset)) {
     Serial.print("PM - interest: ");
   } else if(msg.match("/rel", addrOffset)) {

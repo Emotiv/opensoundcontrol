@@ -63,7 +63,7 @@ if __name__ == "__main__":
   dispatcher.map("/com/disappear", filter_handler)
 
   #=== Performance Metrics
-  dispatcher.map("/met/foc", filter_handler)
+  dispatcher.map("/met/att", filter_handler)
   dispatcher.map("/met/int", filter_handler)
   dispatcher.map("/met/rel", filter_handler)
   dispatcher.map("/met/str", filter_handler)
